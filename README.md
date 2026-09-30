@@ -1,4 +1,4 @@
-# WormGP
+# WormGPT
 
 ## حول الأداة
 <div align="center">

@@ -1,4 +1,4 @@
-# Worm ai
+# Worm GPT
 
 ## حول الأداة
 <div align="center">
